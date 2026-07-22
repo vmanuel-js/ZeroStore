@@ -46,7 +46,7 @@
 | BD Local | Room (historial de búsqueda) |
 | Imágenes | Coil 3 |
 | Mapas | Google Maps Compose |
-| IA | Firebase AI — Gemini 2.0 Flash |
+| IA | Firebase AI — Gemini-3.1-flash-lite |
 | Sesión | DataStore Preferences |
 | Backend | PHP + MySQL en AlwaysData |
 
