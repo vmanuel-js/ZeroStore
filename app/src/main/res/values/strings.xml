@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Zero Store</string>
+    <string name="logo">Zero Branding</string>
+    <string name="volver">Volver</string>
+    <string name="buscar_producto">Buscar Producto</string>
+
+    <string name="inicio_titulo_principal">Arma tu outfit
+        minimalista</string>
+    <string name="inicio_boton">Ver catálogo</string>
+
+    <string name="banner_titulo">Desbloquea Tu
+    Descuento Especial</string>
+    <string name="descuento">50% OFF</string>
+    <string name="banner_boton_comprar">Comprar</string>
+    <string name="cargando">Cargando productos...</string>
+
+
+    <string name="inicio_imagen_descripcion">Imagen de inicio de pantalla de la aplicación Zero Branding</string>
+    <string name="imagen_descuento">Imagen de descuento</string>
+    <string name="title_activity_initial">InitialActivity</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="home_icon">Home</string>
+    <string name="favoritos_icon">Favoritos</string>
+    <string name="carrito_icon">Carrito</string>
+    <string name="perfil_icon">Perfil</string>
+    <string name="tiendas_icon">Tiendas</string>
+
+    <string name="detalle_descripcion">Descripción</string>
+    <string name="detalle_stock">Stock disponible: </string>
+    <string name="detalle_boton">Agregar al carrito</string>
+
+    <string name="title_perfil">Mi Perfil</string>
+    <string name="title_carrito">Mi carrito</string>
+    <string name="title_favorito">Favoritos</string>
+    <string name="title_tiendas">Nuestras Tiendas</string>
+    <string name="carrito_vacio">Tu carrito está vacío</string>
+    <string name="carrito_agregar">Agrega productos para continuar</string>
+    <string name="proceder_pago">Proceder al pago</string>
+    <string name="title_activity_favorito">FavoritoActivity</string>
+    <string name="title_activity_colecciones">ColeccionesActivity</string>
+    <string name="title_activity_coleccion_detalle">ColeccionDetalleActivity</string>
+    <string name="title_activity_login_view_model">LoginViewModel</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_admin_productos">AdminProductosActivity</string>
+    <string name="title_activity_tienda">TiendaActivity</string>
+    <string name="title_activity_mapa_individual">MapaIndividualActivity</string>
+    <string name="title_activity_detalle_tienda">DetalleTiendaActivity</string>
+    <string name="title_activity_mapa_general">MapaGeneralActivity</string>
+    <string name="title_activity_grafico_stock">GraficoStockActivity</string>
+    <string name="title_activity_movimiento">MovimientoActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
