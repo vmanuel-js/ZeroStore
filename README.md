@@ -18,7 +18,7 @@
 - **Activity 3:** Detalle completo con imagen, descripción, teléfono y horario
 
 ### 🤖 ZeroBot — Asistencia inteligente
-- Chat integrado con **Firebase AI (Gemini 2.0 Flash)**
+- Chat integrado con **Firebase AI (Gemini-3.1-flash-lite)**
 - Prompt especializado: consultas, reclamos, quejas y devoluciones
 - Marco legal peruano: Ley N° 29571, INDECOPI
 - Accesible desde burbuja flotante en la pantalla principal
