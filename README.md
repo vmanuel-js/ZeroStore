@@ -1,6 +1,7 @@
 # Zero Store — Android App
 
-Aplicación móvil de ecommerce de ropa masculina desarrollada en **Kotlin + Jetpack Compose** como proyecto universitario. Consume una API REST propia alojada en AlwaysData e integra Firebase AI para atención al cliente.
+- Aplicación móvil de ecommerce de ropa masculina desarrollada en **Kotlin + Jetpack Compose** como proyecto universitario. Consume una API REST propia alojada en AlwaysData e integra Firebase AI para atención al cliente.
+
 ---
 ## Funcionalidades
 
